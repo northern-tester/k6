@@ -4,7 +4,7 @@
   "description": "Experiment with K6 repo",
   "main": "script.js",
   "scripts": {
-    "test": "test"
+    "test": "k6 run script.js"
   },
   "keywords": [
     "k6",
