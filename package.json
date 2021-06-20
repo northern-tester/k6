@@ -1,0 +1,16 @@
+{
+  "name": "k6",
+  "version": "1.0.0",
+  "description": "Experiment with K6 repo",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "k6",
+    "testing",
+    "load"
+  ],
+  "author": "Ash Winter",
+  "license": "ISC"
+}
