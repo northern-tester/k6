@@ -10,6 +10,7 @@ Tool evaluation and experimentation area
 * Really like the thresholds that use percentiles rather than averages. Avg is misleading from a raw performance point of view.
 * Usually more interested in the edges rather than the middle.
 * Like the meta checks such as content size, not too deep an assertion, reducing the duplication with acceptance test automation.
+* The config files are good for different environments. Rather you could run segments of the same tests against different environments, based on the resources they have they are.
 
 ## Negatives
 
@@ -23,3 +24,4 @@ Tool evaluation and experimentation area
 ## Overall
 
 * At the moment, this would be an early win type tool, rather than an established tool for load testing for a build it, run it team.
+* Gradually changing my mind, the flexibility is impressive.
